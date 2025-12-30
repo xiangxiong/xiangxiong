@@ -6,7 +6,8 @@
 - 前端开发：React、Vue、Angular、TypeScript、JavaScript、HTML、CSS
 - 后端开发：Node.js、Express、Python、C#、Flask
 - 数据库：MySQL、PostgreSQL、MongoDB
-- 云服务：AWS、Azure、Google Cloud
+- 云服务：alibaba cloud、AWS.
+- AI：Langchain、langGraph.
 - 其他：Git、Docker、Kubernetes、CI/CD
 
 ## 最近更新
