@@ -1,13 +1,13 @@
 
 ## 关于我
-您好，我是shawn。我拥有 10+开发经验, 7年前端开发, 4年+后端开发, 全栈开发, 目前专注于 AI 应用开发.
+您好，我是shawn。我拥有 10+开发经验, 7年前端开发, 4年+后端开发, 全栈开发, 目前专注于 AI 应用开发. 曾供职于众安保险、58 同城等公司.
 
 ## 技能
 - 前端开发：React、Vue、Angular、TypeScript、JavaScript、HTML、CSS
 - 后端开发：Node.js、Express、Python、C#、Flask
 - 数据库：MySQL、PostgreSQL、MongoDB
-- 云服务：alibaba cloud、AWS.
-- AI：Langchain、langGraph.
+- 云服务：Alibaba cloud、AWS.
+- AI：Langchain、LangGraph.
 - 其他：Git、Docker、Kubernetes、CI/CD
 
 ## 最近更新
