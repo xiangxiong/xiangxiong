@@ -12,13 +12,8 @@
 
 ## 最近更新
 
-以下是最近更新的 8 篇文章，详见 [./archive](https://sorrycc.com/archive) 。
-- `12/15/25` [614 - 《最近买的东西们（8）》](https://sorrycc.com/buy-08)
-- `12/15/25` [613 - 《我怎么用 AI 编程 2025.12》](https://sorrycc.com/how-i-use-ai-programming-2025-12)
-- `12/15/25` [612 - 《AI 羊毛 03》](https://sorrycc.com/ai-wool-03)
-- `12/03/25` [译：AI 如何改变 Anthropic 的工作方式](https://sorrycc.com/how-ai-is-transforming-work-at-anthropic)
-- `12/02/25` [译：万亿美元的 AI 软件开发技术栈](https://sorrycc.com/the-trillion-dollar-ai-software-development-stack)
-- `12/02/25` [611 - 《AI 羊毛 02：Antigravity、AI Studio、Cerebras、IFlow、Poe、Github Copilot》](https://sorrycc.com/ai-wool-02-antigravity-ai-studio-cerebras-iflow-poe-github-copilot)
-- `12/01/25` [译：如何写好一个 CLAUDE.md](https://sorrycc.com/how-to-write-a-good-claude-md)
-- `11/28/25` [610 - 《Neovate Code 开发笔记 04：Antigravity Povider 和 AI SDK Provider》](https://sorrycc.com/neovate-code-04-antigravity-provider-and-ai-sdk-provider)
-- `11/28/25` [609 - 《AI 羊毛 01：Google 学生、Google 账号、ChatGPT Team》](https://sorrycc.com/ai-yang-mao-01)
+以下是最近更新的 8 篇文章:
+- <a href="https://github.com/xiangxiong/core-llmops/blob/main/%E5%85%8D%E8%B4%B9%E7%95%85%E7%94%A8%20Gemini%203.0%20Pro%20Antigravity%20IDE%EF%BC%9A%E5%9B%BD%E5%86%85%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%26%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md">免费畅用 Gemini 3.0 Pro Antigravity IDE：国内详细安装&使用教程</a>
+- <a href="https://github.com/xiangxiong/core-llmops/blob/main/RAG%20%E6%A0%B8%E5%BF%83%E8%AE%A4%E7%9F%A5%E4%B8%8E%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.md">RAG 核心认知与技术选型</a>
+- <a href="https://github.com/xiangxiong/core-llmops/blob/main/Python%E4%B8%80%E5%91%A8%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md">Python 一周学习总结</a>
+- 
