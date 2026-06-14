@@ -18,3 +18,5 @@
  - <a href="https://github.com/xiangxiong/AIBlog/blob/main/langchain/Milvus/Milvus%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md#8-attributeerror-customembeddingfunction-object-has-no-attribute-encode_queries">Milvus 常见问题解决方案</a>
  - <a href="https://github.com/xiangxiong/AIBlog/blob/main/langchain/LangCraph/LangGraph%E5%BE%AA%E7%8E%AF%E7%8A%B6%E6%80%81%E6%9C%BA%E5%88%86%E6%9E%90.md">LangGraph 循环状态机代码分析</a>
  - <a href="https://github.com/xiangxiong/AIBlog/blob/main/langchain/LangCraph/%E8%87%AA%E5%8F%8D%E6%80%9DRAG%E8%A7%A3%E6%9E%90.md">基于 LangGraph 的自反思 RAG 解析</a>
+ - <a href="https://github.com/xiangxiong/AIBlog/blob/main/langchain/AgenticAI/AgenticAI%E5%9B%BE%E8%A1%A8%E5%8F%8D%E6%80%9DWorkflow%E5%AE%9E%E6%88%98.md">从 0 到 1 实现 Agentic AI 反思模式：让 LLM 自动画图并自我改进</a>
+ 
